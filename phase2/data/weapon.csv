@@ -1,0 +1,18 @@
+w_weaponkey,w_name,w_type,w_price,w_firerate,w_headdmg_close,w_bodydmg_close,w_legdmg_close,w_headdmg_med,w_bodydmg_med,w_legdmg_med,w_headdmg_far,w_bodydmg_far,w_legdmg_far
+1,CLASSIC,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+2,SHORTY,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+3,FRENZY,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+4,GHOST,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+5,SHERIFF,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+6,STINGER,SMG,950,20,67,27,23,62,25,21,62,25,21
+7,SPECTRE,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+8,BUCKY,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+9,JUDGE,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+10,BULLDOG,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+11,GUARDIAN,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+12,PHANTOM,rifle,2900,11,156,39,33,140,35,30,124,31,26
+13,VANDAL,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+14,MARSHAL,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+15,OPERATOR,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+16,ARES,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+17,ODIN,machine gun,3200,12,95,38,32,95,38,32,77,31,26
