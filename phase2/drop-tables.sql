@@ -1,0 +1,8 @@
+--SQLite
+DELETE FROM agents;
+DELETE FROM origin;
+DELETE FROM roles;
+DELETE FROM weapon;
+DELETE FROM kda;
+DELETE FROM map;
+DELETE FROM maprank;
