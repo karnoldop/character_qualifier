@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<style>
+    .header {
+        background: #042e27;
+        color: white;
+        padding: 15px;
+        font-size: 40px;
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Agents</title>
+</head>
+
+<body>
+    <h1 class="header">Valorant</h1>
+    <a href="{{'roles'}}">Return to Dashboard</a>
+
+    <h2>Delete Agent</h2>
+    <h3>WARNING: Only delete if something was inputted by mistake! Agents shouldn't be changed at all!</h3>
+
+    <form method="POST" formaction="/deleteA">
+        {{ form.hidden_tag() }}
+        {{ form.a_name }}
+        {{ form.submit }}
+    </form>
+</body>
+
+</html>

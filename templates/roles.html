@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<style>
+    .header {
+        background: #042e27;
+        color: white;
+        padding: 15px;
+        font-size: 40px;
+    }
+
+    .Pages {
+        text-align: center;
+        display: flex;
+    }
+
+    .Pages button {
+        background-color: #dc3d4b;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+    }
+
+    .Pages button:hover {
+        cursor: pointer;
+        background-color: #364966;
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roles</title>
+</head>
+
+<body>
+    <h1 class="header">Valorant</h1>
+    <h2>Select a Role</h2>
+
+    <div class="Pages">
+        <a href="{{'controller'}}">
+            <button class="button" style='margin-right:16px'>Controller</button>
+        </a>
+        <a href="{{'duelist'}}">
+            <button class="button" style='margin-right:16px'>Duelist</button>
+        </a>
+        <a href="{{'initiator'}}">
+            <button class="button" style='margin-right:16px'>Initiator</button>
+        </a>
+        <a href="{{'sentinel'}}">
+            <button class="button" style='margin-right:16px'>Sentinel</button>
+        </a>
+    </div>
+
+    <br><br>
+    
+    <div class="IUD">
+        Outdated Datasets? <a href="{{'IUD'}}">Click here</a>
+</body>
+
+</html>

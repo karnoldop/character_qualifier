@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<style>
+    .header {
+        background: #042e27;
+        color: white;
+        padding: 15px;
+        font-size: 40px;
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Update</title>
+</head>
+
+<body>
+    <h1 class="header">Valorant</h1>
+    <a href="{{'roles'}}">Return to Dashboard</a>
+
+    <h2>Update Agent's KDA</h2>
+    <h3>Is the agent's KDA stats outdated? Update here!</h3>
+
+    List of Maps:
+    <ol>
+        <li>Split</li>
+        <li>Bind</li>
+        <li>Ascent</li>
+        <li>Icebox</li>
+        <li>Breeze</li>
+        <li>Haven</li>
+    </ol>
+
+    <form method="POST" formaction="/update">
+        {{ form.hidden_tag() }}
+        {{ form.kda_agentkey }}
+        {{ form.kda_mapkey }}
+        {{ form.kda_kill }}
+        {{ form.kda_death }}
+        {{ form.kda_assist }}
+        {{ form.kda_winrate }}
+        {{ form.kda_atkwin }}
+        {{ form.kda_defwin }}
+        {{ form.kda_agentpr }}
+        {{ form.submit }}
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<style>
+    .header {
+        background: #042e27;
+        color: white;
+        padding: 15px;
+        font-size: 40px;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Roles</title>
+</head>
+
+<body>
+    <h1 class="header">Valorant</h1>
+    <a href="{{'roles'}}">Return to Dashboard</a>
+
+    <h2>Delete Roles</h2>
+    <h3>Is there a weapon that's no longer suitable for certain roles? Delete the dataset here!</h3>
+
+    List of Roles:
+    <ol>
+        <li>Controller</li>
+        <li>Duelist</li>
+        <li>Initiator</li>
+        <li>Sentinel</li>
+    </ol>
+
+    <br>
+
+    <form method="POST" formaction="/deleteR">
+        {{ form.hidden_tag() }}
+
+        Role: 
+        {{ form.r_rolekey }}
+        
+        <br>
+
+        Weaponkey:
+        {{ form.r_weaponkey }}
+
+        <br>
+
+        {{ form.submit }}
+    </form>
+</body>
+
+</html>
