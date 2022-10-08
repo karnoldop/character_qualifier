@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<style>
+    .header {
+        background: #042e27;
+        color: white;
+        padding: 15px;
+        font-size: 40px;
+    }
+
+    table, th, td {
+        border: 1px solid black;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Controller</title>
+</head>
+
+<body>
+    <h1 class="header">Valorant</h1>
+    <a href="{{'roles'}}">Return to Dashboard</a>
+    <h2>Controllers</h2>
+
+    <a href="{{'weapons'}}" style="float: right">View Weapons</a>
+
+    <form method = "POST">
+        Search by Agents:
+        <input type="text" autofocus="autofocus" name="search_agent">
+        <input type="submit" name="submit" value="Search Agent">
+        
+        <br>Search Agent's KDA (Enter Agent Key):
+        <input type="number" autofocus="autofocus" name="search_kda">
+        
+        Filter by Map:
+        <select name="filter_map" formaction = "/controller">
+            <option value="">--Select--</option>
+            <option value="1">Split</option>
+            <option value="2">Bind</option>
+            <option value="3">Ascend</option>
+            <option value="4">Icebox</option>
+            <option value="5">Breeze</option>
+            <option value="6">Haven</option>
+        </select>
+        <input type="submit" name="submit" value="Search KDA">
+    </form>
+
+    <br>
+
+    <table style="float: left; border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th style="text-align: left;">Agentkey</th>
+                <th style="text-align: left;">Name</th>
+                <th style="text-align: left;">Gender</th>
+                <th style="text-align: left;">Race</th>
+                <th style="text-align: left;">Origin</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in res1 %}
+            <tr>
+                <td>{{item[0]}}</td>
+                <td>{{item[1]}}</td>
+                <td>{{item[2]}}</td>
+                <td>{{item[3]}}</td>
+                <td>{{item[4]}}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <table style="float: right; border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th style="text-align: left;">Name</th>
+                <th style="text-align: left;">Avg Kill</th>
+                <th style="text-align: left;">Avg Death</th>
+                <th style="text-align: left;">Avg Assist</th>
+                <th style="text-align: left;">Avg Winrate</th>
+                <th style="text-align: left;">Avg Attack Wins</th>
+                <th style="text-align: left;">Avg Defense Wins</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in res2 %}
+            <tr>
+                <td>{{item[0]}}</td>
+                <td>{{item[1]}}</td>
+                <td>{{item[2]}}</td>
+                <td>{{item[3]}}</td>
+                <td>{{item[4]}}</td>
+                <td>{{item[5]}}</td>
+                <td>{{item[6]}}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+
+</html>
