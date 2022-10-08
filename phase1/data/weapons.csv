@@ -1,0 +1,212 @@
+w_weaponkey,w_name,w_type,w_price,w_firerate,w_headdmg_close,w_bodydmg_close,w_legdmg_close,w_headdmg_med,w_bodydmg_med,w_legdmg_med,w_headdmg_far,w_bodydmg_far,w_legdmg_far
+1,Classic,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+2,Shorty,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+3,Frenzy,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+4,Ghost,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+5,Sheriff,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+6,Stinger,SMG,950,20,67,27,23,62,25,21,62,25,21
+7,Sprectre,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+8,Bucky,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+9,Judge,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+10,Bulldog,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+11,Guardian,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+12,Phantom,rifle,2900,11,156,39,33,140,35,30,124,31,26
+13,Vandal,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+14,Marshal,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+15,Operator,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+16,Ares,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+17,Odin,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+18,Abyssal Mask,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+19,Aegis of the Legion,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+20,Aether Wisp,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+21,Amplifying Tome,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+22,Archangel's Staff,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+23,Ardent Censer,SMG,950,20,67,27,23,62,25,21,62,25,21
+24,B. F. Sword,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+25,Bami's Cinder,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+26,Bandleglass Mirror,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+27,Banshee's Veil,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+28,Berserker's Greaves,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+29,Black Cleaver,rifle,2900,11,156,39,33,140,35,30,124,31,26
+30,Black Mist Scythe,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+31,Blade of the Ruined King,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+32,Blasting Wand,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+33,Blighting Jewel,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+34,Bloodthirster,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+35,Bloodward,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+36,Boots,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+37,Boots of Swiftness,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+38,Bramble Vest,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+39,Bulwark of the Mountain,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+40,Caulfield's Warhammer,SMG,950,20,67,27,23,62,25,21,62,25,21
+41,Ceaseless Hunger,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+42,Chain Vest,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+43,Chempunk Chainsword,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+44,Chemtech Putrifier,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+45,Cloak of Agility,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+46,Cloth Armor,rifle,2900,11,156,39,33,140,35,30,124,31,26
+47,Cosmic Drive,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+48,Crystalline Bracer,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+49,Cull,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+50,Dagger,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+51,Dark Seal,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+52,Dead Man's Plate,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+53,Death's Dance,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+54,Deicide,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+55,Demonic Embrace,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+56,Divine Sunderer,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+57,Doran's Blade,SMG,950,20,67,27,23,62,25,21,62,25,21
+58,Doran's Ring,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+59,Doran's Shield,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+60,Draktharr's Shadowcarver,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+61,Dreamshatter,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+62,Duskblade of Draktharr,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+63,Eclipse,rifle,2900,11,156,39,33,140,35,30,124,31,26
+64,Edge of Night,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+65,Essence Reaver,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+66,Eternal Winter,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+67,Everfrost,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+68,Executioner's Calling,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+69,Eye of Luden,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+70,Faerie Charm,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+71,Fiendish Codex,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+72,Forbidden Idol,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+73,Force of Nature,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+74,Forgefire Crest,SMG,950,20,67,27,23,62,25,21,62,25,21
+75,Frostfang,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+76,Frostfire Gauntlet,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+77,Frozen Heart,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+78,Galeforce,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+79,Gargoyle Stoneplate,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+80,Giant's Belt,rifle,2900,11,156,39,33,140,35,30,124,31,26
+81,Glacial Buckler,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+82,Goredrinker,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+83,Guardian Angel,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+84,Guardian's Blade,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+85,Guardian's Hammer,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+86,Guardian's Horn,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+87,Guardian's Orb,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+88,Guinsoo's Rageblade,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+89,Harrowing Crescent,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+90,Hearthbound Axe,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+91,Hexdrinker,SMG,950,20,67,27,23,62,25,21,62,25,21
+92,Hextech Alternator,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+93,Hextech Rocketbelt,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+94,Horizon Focus,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+95,Icathia's Curse,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+96,Immortal Shieldbow,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+97,Imperial Mandate,rifle,2900,11,156,39,33,140,35,30,124,31,26
+98,Infinity Edge,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+99,Infinity Force,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+100,Ionian Boots of Lucidity,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+101,Ironspike Whip,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+102,Kindlegem,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+103,Kircheis Shard,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+104,Knight's Vow,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+105,Kraken Slayer,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+106,Last Whisper,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+107,Leeching Leer,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+108,Liandry's Anguish,SMG,950,20,67,27,23,62,25,21,62,25,21
+109,Liandry's Lament,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+110,Lich Bane,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+111,Locket of the Iron Solari,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+112,Long Sword,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+113,Lord Dominik's Regards,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+114,Lost Chapter,rifle,2900,11,156,39,33,140,35,30,124,31,26
+115,Luden's Tempest,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+116,Manamune,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+117,Maw of Malmortius,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+118,Mejai's Soulstealer,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+119,Mercurial Scimitar,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+120,Mercury's Treads,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+121,Mikael's Blessing,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+122,Moonstone Renewer,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+123,Morellonomicon,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+124,Mortal Reminder,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+125,Muramana,SMG,950,20,67,27,23,62,25,21,62,25,21
+126,Nashor's Tooth,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+127,Navori Quickblades,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+128,Needlessly Large Rod,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+129,Negatron Cloak,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+130,Night Harvester,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+131,Noonquiver,rifle,2900,11,156,39,33,140,35,30,124,31,26
+132,Null-Magic Mantle,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+133,Oblivion Orb,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+134,Pauldrons of Whiterock,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+135,Phage,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+136,Phantom Dancer,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+137,Pickaxe,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+138,Plated Steelcaps,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+139,Prowler's Claw,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+140,Quicksilver Sash,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+141,Rabadon's Deathcap,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+142,Rageknife,SMG,950,20,67,27,23,62,25,21,62,25,21
+143,Randuin's Omen,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+144,Rapid Firecannon,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+145,Ravenous Hydra,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+146,Recurve Bow,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+147,Redemption,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+148,Rejuvenation Bead,rifle,2900,11,156,39,33,140,35,30,124,31,26
+149,Relic Shield,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+150,Reliquary of the Golden Dawn,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+151,Riftmaker,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+152,Rimeforged Grasp,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+153,Ruby Crystal,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+154,Runaan's Hurricane,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+155,Runesteel Spaulders,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+156,Rylai's Crystal Scepter,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+157,Sandshrike's Claw,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+158,Sanguine Blade,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+159,Sapphire Crystal,SMG,950,20,67,27,23,62,25,21,62,25,21
+160,Seat of Command,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+161,Seeker's Armguard,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+162,Seraph's Embrace,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+163,Serpent's Fang,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+164,Serrated Dirk,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+165,Serylda's Grudge,rifle,2900,11,156,39,33,140,35,30,124,31,26
+166,Shard of True Ice,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+167,Shurelya's Battlesong,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+168,Shurelya's Requiem,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+169,Silvermere Dawn,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+170,Sorcerer's Shoes,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+171,Spectral Sickle,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+172,Spectre's Cowl,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+173,Spellthief's Edge,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+174,Spirit Visage,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+175,Staff of Flowing Water,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+176,Starcaster,SMG,950,20,67,27,23,62,25,21,62,25,21
+177,Steel Shoulderguards,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+178,Sterak's Gage,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+179,Stormrazor,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+180,Stridebreaker,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+181,Sunfire Aegis,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+182,Syzygy,rifle,2900,11,156,39,33,140,35,30,124,31,26
+183,Targon's Buckler,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+184,Tear of the Goddess,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+185,The Collector,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+186,Thornmail,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+187,Tiamat,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+188,Titanic Hydra,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+189,Trinity Force,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+190,Turbo Chemtank,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+191,Turbocharged Hexperiment,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+192,Typhoon,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+193,Umbral Glaive,SMG,950,20,67,27,23,62,25,21,62,25,21
+194,Upgraded Aeropack,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
+195,Vampiric Scepter,shotgun,850,1.1,55,22,19,34,17,14,18,9,8
+196,Verdant Barrier,shotgun,1850,3.5,34,17,14,26,13,11,20,10,9
+197,Vespertide,rifle,2050,9.15,116,35,30,116,35,30,116,35,30
+198,Vigilant Wardstone,rifle,2250,6.5,195,65,49,195,65,49,195,65,49
+199,Void Staff,rifle,2900,11,156,39,33,140,35,30,124,31,26
+200,Warden's Mail,rifle,2900,9.25,156,39,33,156,39,33,156,39,33
+201,Warmog's Armor,sniper,950,1.5,202,101,85,202,101,85,202,101,85
+202,Watchful Wardstone,sniper,4700,0.75,255,150,127,255,150,127,255,150,127
+203,Winged Moonplate,machine gun,1550,10,72,30,25,72,30,25,67,28,23
+204,Wit's End,machine gun,3200,12,95,38,32,95,38,32,77,31,26
+205,Wyrmfallen Sacrifice,secondary weapon,500,6.75,78,26,22,78,26,22,66,22,18
+206,Youmuu's Ghostblade,secondary weapon,150,3.3,36,12,10,24,8,6,9,3,2
+207,Zeal,secondary weapon,450,10,78,26,22,63,21,17,63,21,17
+208,Zeke's Convergence,secondary weapon,500,6.75,105,33,26,88,25,21,88,25,21
+209,Zhonya's Hourglass,secondary weapon,800,4,160,55,47,160,55,47,145,50,43
+210,Anathema's Chains,SMG,950,20,67,27,23,62,25,21,62,25,21
+211,Hullbreaker,SMG,1600,13.33,78,26,22,66,22,18,66,22,18
